@@ -8,6 +8,7 @@ Los Angeles, California – the City of Angels and the Entertainment Capital of 
 ## Dataset
 - The dataset used for this project is a modified version of the data available from Los Angeles Open Data. It includes various attributes about crime incidents reported in Los Angeles.
 - **Provided By**: DataCamp
+- **⚠️dataset changed from `crimes.csv` to `crime.xlsx` to uploud it to github**
 
 ## Project Goals
 The primary goal of this project is to analyze the provided crime data to identify patterns in criminal activity. By understanding these patterns, we can provide insights that help in the effective allocation of law enforcement resources to reduce crime in Los Angeles.
